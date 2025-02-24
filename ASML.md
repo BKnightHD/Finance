@@ -1,11 +1,6 @@
----
-title: "ASML Fundamental Analysis"
-author: ""
-date: "`r Sys.Date()`"
-output: html_document
----
+# ASML Fundamental Analysis
 
-# **1. Company Overview**
+## 1. Company Overview
 
 - **Business Model:** ASML is a leading supplier in the semiconductor industry, providing advanced lithography systems essential for chip manufacturing. ([asml.com](https://www.asml.com/company/about-asml?utm_source=chatgpt.com))
 - **Industry:** Semiconductor Equipment Manufacturing
@@ -14,7 +9,7 @@ output: html_document
 
 ---
 
-# **2. Financial Health**
+## 2. Financial Health
 
 - **Revenue Growth:**
   - **2023:** €27.6 billion
@@ -33,7 +28,7 @@ output: html_document
 
 ---
 
-# **3. Capital Structure**
+## 3. Capital Structure
 
 - **Market Capitalization:** Approximately $293 billion as of February 21, 2025 ([pitchbook.com](https://pitchbook.com/profiles/company/41322-07?utm_source=chatgpt.com))
 - **Stock Price:** $736.16 as of February 24, 2025
@@ -41,48 +36,48 @@ output: html_document
 
 ---
 
-# **4. Valuation Metrics**
+## 4. Valuation Metrics
 
 - **Price-to-Earnings (P/E) Ratio:** Market Cap / Net Income.
 - **Price-to-Sales (P/S) Ratio:** Market Cap / Revenue.
 
 ---
 
-# **5. Profitability Metrics**
+## 5. Profitability Metrics
 
 - **Return on Equity (ROE):** Net Income / Shareholder's Equity.
 - **Return on Assets (ROA):** Net Income / Total Assets.
 
 ---
 
-# **6. Growth Metrics**
+## 6. Growth Metrics
 
 - **Net Income CAGR (2019-2024):** Approximately 21.37%
 
 ---
 
-# **7. Industry Trends**
+## 7. Industry Trends
 
 - **Semiconductor Demand:** Growing demand for advanced chips in AI, 5G, and automotive sectors.
 - **Geopolitical Factors:** Export restrictions to certain countries may impact sales.
 
 ---
 
-# **8. Competitive Positioning**
+## 8. Competitive Positioning
 
 - **Market Leader:** Dominant in EUV lithography technology.
 - **Barriers to Entry:** High due to technological complexity and significant R&D investment.
 
 ---
 
-# **9. Management and Governance**
+## 9. Management and Governance
 
 - **CEO:** Peter Wennink
 - **Governance:** Strong focus on innovation and long-term growth.
 
 ---
 
-# **10. Risks**
+## 10. Risks
 
 - **Market Cyclicality:** Semiconductor industry is subject to demand fluctuations.
 - **Regulatory Risks:** Export controls and trade tensions could affect operations.
